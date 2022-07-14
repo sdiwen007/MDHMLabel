@@ -1,0 +1,6 @@
+framework module MDHMLabel {
+  umbrella header "MDHMLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

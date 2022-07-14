@@ -1,0 +1,22 @@
+{
+  "name": "MDHMLabel",
+  "version": "0.1.0",
+  "summary": "A short description of MDHMLabel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sdiwen007/MDHMLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sdiwen007": "shiyong@trip.com"
+  },
+  "source": {
+    "git": "https://github.com/sdiwen007/MDHMLabel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MDHMLabel/Classes/**/*"
+}

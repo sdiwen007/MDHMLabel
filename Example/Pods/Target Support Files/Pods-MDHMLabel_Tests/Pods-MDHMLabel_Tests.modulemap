@@ -1,0 +1,6 @@
+framework module Pods_MDHMLabel_Tests {
+  umbrella header "Pods-MDHMLabel_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

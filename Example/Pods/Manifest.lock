@@ -1,0 +1,16 @@
+PODS:
+  - MDHMLabel (0.1.0)
+
+DEPENDENCIES:
+  - MDHMLabel (from `../`)
+
+EXTERNAL SOURCES:
+  MDHMLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MDHMLabel: 9d7dd63bd052fcf61273ea3c1027fe2731aef5e5
+
+PODFILE CHECKSUM: ae1b98697e7b6bc9ce5747e73f3b566c92778428
+
+COCOAPODS: 1.11.2
